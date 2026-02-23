@@ -1,2 +1,2 @@
 # naomidahomie.github.io
-Computer Science Portfolio
+Welcome to my Computer Science Portfolio
