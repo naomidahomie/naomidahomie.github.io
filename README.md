@@ -1,2 +1,1 @@
-# naomidahomie.github.io
-Welcome to my Computer Science Portfolio
+# Welcome to my Computer Science [Portfolio] (https://naomidahomie.github.io)
