@@ -1,1 +1,1 @@
-# Welcome to my Computer Science [Portfolio](https://naomidahomie.github.io)
+# Welcome to my CS Capstone [Portfolio](https://naomidahomie.github.io)
